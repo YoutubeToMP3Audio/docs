@@ -1,7 +1,7 @@
 # Project documentation
 This repository contains project documentation.
 
-## Project Roadmap
+## Roadmap
 
 This document covers the upcoming task for the project to achieve MVP
 
@@ -12,6 +12,6 @@ This document covers the upcoming task for the project to achieve MVP
 | 3   | Create POC of blob management for audios                        | {issueLink} |
 | 3   | Create POC email notification service                           | {issueLink} |
 
-## Solution architecture proposal
+## Solution Architecture
 
 ![Solution architecture](solutionArchitectureProposal.jpeg)
